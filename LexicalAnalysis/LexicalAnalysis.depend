@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558542589 source:c:\users\mumyb\onedrive\masaüstü\plproject\lexicalanalysis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+

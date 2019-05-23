@@ -1,0 +1,31 @@
+keyword 'int'
+Identifier 'size'
+End of line character
+keyword 'int'
+Identifier 'sum'
+End of line character
+keyword 'move'
+int constant (5)
+keyword 'to'
+Identifier 'size'
+End of line character
+keyword 'loop'
+Identifier 'size'
+keyword 'times'
+Open bracket paranthesis
+keyword 'out'
+Identifier 'size'
+Seperator ','
+keyword 'newline'
+End of line character
+keyword 'add'
+Identifier 'size'
+keyword 'to'
+Identifier 'sum'
+End of line character
+Close bracket paranthesis
+keyword 'out'
+keyword 'newline'
+Seperator ','
+String constant (Sum:)
+Seperator ','
